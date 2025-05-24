@@ -1,1 +1,1 @@
-# Dragon-Pet-Game
+This virtual pet dragon game lets players nurture a dragon by choosing its name and color, then managing its health, mood, and experience through daily actions like feeding, training, adventuring, and using skills. The game syncs with real-world days, applying daily attribute decay, challenging players to reach Level 4 with 100 health and mood to win, while avoiding zero health or mood. Players who enjoy virtual pet or nurturing games, particularly those new to text-based games, can engage in the fun of caring for a dragon.
